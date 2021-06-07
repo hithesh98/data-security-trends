@@ -1,0 +1,26 @@
+Year,Quarter,Medium,Incident Type,Central Government,Charitable and voluntary,Education and childcare,"Finance, insurance and credit",General business,Health,Justice,Land or property services,Legal,Local government,Marketing,Media,Membership association,Online Technology and Telecoms,Political,Regulators,Religious,Retail and manufacture,Social care,Transport and leisure,Utilities,Grand Total
+2019,1, Non-cyber ,Alteration of personal data,1,,1,,,2,,,,,,,,,,,,,,,,4
+2019,1, Non-cyber ,Data emailed to incorrect recipient,7,17,52,49,68,25,2,13,56,17,,1,3,5,,,1,15,6,9,5,351
+2019,1, Non-cyber ,Data of wrong data subject shown in client portal,,1,3,3,7,3,,,4,2,,,,2,,,,1,,2,,28
+2019,1, Non-cyber ,Data posted or faxed to incorrect recipient,141,13,20,53,52,84,8,10,52,52,,,3,1,1,,,1,2,4,6,503
+2019,1, Non-cyber ,Failure to redact,6,3,9,3,9,10,6,3,3,31,,,2,,,,,1,1,1,1,89
+2019,1, Non-cyber ,Failure to use bcc,4,7,19,2,33,6,1,1,2,8,,1,4,,,1,,1,1,3,,94
+2019,1, Non-cyber ,Incorrect disposal of paperwork,1,,3,,4,4,,2,,3,,,,,,1,,,,,,18
+2019,1, Non-cyber ,Loss/theft of device containing personal data,4,4,28,2,21,5,5,2,6,13,,,3,1,,,,1,2,3,,100
+2019,1, Non-cyber ,Loss/theft of paperwork or data left in insecure location,4,12,26,14,34,58,12,4,30,24,,,1,1,1,,1,6,8,2,1,239
+2019,1, Non-cyber ,Not Provided,13,11,68,31,98,91,15,12,41,27,1,1,5,3,1,1,,21,2,3,7,452
+2019,1, Non-cyber ,Other non-cyber incident,16,22,69,45,81,161,18,30,18,45,2,1,7,5,,,3,24,10,17,7,581
+2019,1," Non-cyber
+
+
+
+
+
+ ",Verbal disclosure of personal data,,3,5,4,2,23,,4,2,9,1,,1,,,1,1,1,,1,1,59
+2019,1,Cyber,Unauthorised access,2,7,12,4,65,2,1,1,1,2,,1,,1,,,1,49,1,3,,153
+2019,1,Cyber,Brute Force,,,1,3,8,,,,,,,,,,,,,3,,1,,16
+2019,1,Cyber,Hardware/software misconfiguration,,,2,,2,,,,1,1,,,,,,,,,1,,,7
+2019,1,Cyber,Malware,,1,5,1,20,,5,,1,,,,,2,,,,2,,,,37
+2019,1,Cyber,Other cyber incident,1,,2,3,12,1,,,,,,,1,2,,,,6,,5,,33
+2019,1,Cyber,Phishing,1,20,29,25,123,16,,12,12,4,,,2,5,,1,5,21,2,14,2,294
+2019,1,Cyber,Ransomware,,4,5,1,14,2,1,1,2,,,,1,,,,,1,,1,,33

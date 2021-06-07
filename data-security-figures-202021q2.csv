@@ -1,0 +1,23 @@
+Year,Quarter,Medium,INCIDENT TYPE,Central Government,Charitable and voluntary,Education and childcare,"Finance, insurance and credit",General business,Health,Justice,Land or property services,Legal,Local government,Marketing,Media,Membership association,Online Technology and Telecoms,Political,Regulators,Religious,Retail and manufacture,Social care,Transport and leisure,Utilities,Grand Total
+2020,2,Cyber,Brute Force,,,5,4,1,,,,,,,,1,2,,,,5,,1,,19
+2020,2,Cyber,Hardware/software misconfiguration,2,3,2,3,1,1,,,,1,,1,,1,,,,5,1,1,,22
+2020,2,Cyber,Malware,,,4,3,,3,,1,5,1,1,,3,2,,,,14,,3,1,41
+2020,2,Cyber,Other cyber incident,1,6,6,4,8,5,,4,5,,,1,,4,,,,10,1,,,55
+2020,2,Cyber,Phishing,2,25,24,44,18,10,,15,30,10,2,2,,7,,,1,53,7,5,3,258
+2020,2,Cyber,Ransomware,,16,29,40,9,3,,2,6,,,,2,6,,,2,31,,6,,152
+2020,2,Cyber,Unauthorised access,6,8,16,20,3,42,5,8,8,15,1,1,2,8,2,,1,30,5,6,3,190
+2020,2,Cyber,Cyber Security Incidents Total,11,58,86,118,40,64,5,30,54,27,4,5,8,30,2,,4,148,14,22,7,737
+2020,2,Non-cyber,Alteration of personal data,,,,,,2,,1,,,,,,,,,,,,,,3
+2020,2,Non-cyber,Data emailed to incorrect recipient,8,27,84,46,19,73,2,20,32,29,1,1,8,3,,2,,21,13,9,4,402
+2020,2,Non-cyber,Data of wrong data subject shown in client portal,,1,5,5,2,4,,,2,2,,,1,2,,,,5,,4,,33
+2020,2,Non-cyber,Data posted or faxed to incorrect recipient,8,11,13,51,6,54,2,18,38,39,,,2,1,,1,1,14,4,2,1,266
+2020,2,Non-cyber,Failure to redact,8,5,13,5,1,13,2,7,6,39,,,1,,,,,3,1,1,,105
+2020,2,Non-cyber,Failure to use bcc,1,7,21,6,1,8,,2,,5,,1,4,3,2,,,12,,6,1,80
+2020,2,Non-cyber,Incorrect disposal of hardware,,,1,1,,,,,1,1,,,,,,,,,,,,4
+2020,2,Non-cyber,Incorrect disposal of paperwork,,1,3,,,2,,1,,,,,,,,,,,1,1,,9
+2020,2,Non-cyber,Loss/theft of device containing personal data,1,3,6,3,3,8,5,1,6,3,,,,,,,1,2,4,,,46
+2020,2,Non-cyber,Loss/theft of paperwork or data left in insecure location,2,15,18,5,3,53,4,,11,13,,1,,1,,,2,6,4,3,,141
+2020,2,Non-cyber,Not Provided,6,5,4,10,6,20,1,1,5,14,,,,4,,,1,6,2,5,1,91
+2020,2,Non-cyber,Other non-cyber incident,26,36,78,54,19,117,15,41,28,54,2,,9,8,1,2,3,73,17,18,12,613
+2020,2,Non-cyber,Verbal disclosure of personal data,1,3,4,,2,24,4,4,3,10,,,,,,,,1,5,1,2,64
+2020,2,Non-cyber,Non-cyber security incidents Total,61,114,250,186,62,378,35,96,132,209,3,3,25,22,3,5,8,143,51,50,21,1857
